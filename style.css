@@ -1,0 +1,25 @@
+body {
+	color: darkblue;
+	background-color: lemonchiffon;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+		'Lucida Sans', Arial, sans-serif;
+}
+
+#question-area {
+	color: darkblue;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+		'Lucida Sans', Arial, sans-serif;
+}
+
+.quizBox {
+	color: darkblue;
+	font-size: 20px;
+}
+
+.reset {
+	background-color: grey;
+	padding: 8px 10px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
